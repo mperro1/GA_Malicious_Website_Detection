@@ -86,5 +86,5 @@ POP_SIZE & N_GENERATIONS: Control the "depth" and "breadth" of the GA search.
 
 EARLY_STOP_PATIENCE: Prevents overfitting by stopping the GA if no improvement is seen.
 
-### Eperimental Analysis
+### Experimental Analysis
 For a step-by-step breakdown of the research and visualization of the results (such as fitness curves), please refer to the files in the notebooks/ directory and our report. These are numbered sequentially to follow the research methodology.
